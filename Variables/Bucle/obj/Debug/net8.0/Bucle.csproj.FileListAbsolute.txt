@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\Variables\Bucle\bin\Debug\net8.0\Bucle.exe
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\Variables\Bucle\bin\Debug\net8.0\Bucle.deps.json
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\Variables\Bucle\bin\Debug\net8.0\Bucle.runtimeconfig.json
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\Variables\Bucle\bin\Debug\net8.0\Bucle.dll
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\Variables\Bucle\bin\Debug\net8.0\Bucle.pdb
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\Variables\Bucle\obj\Debug\net8.0\Bucle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\Variables\Bucle\obj\Debug\net8.0\Bucle.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\Variables\Bucle\obj\Debug\net8.0\Bucle.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\Variables\Bucle\obj\Debug\net8.0\Bucle.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\Variables\Bucle\obj\Debug\net8.0\Bucle.sourcelink.json
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\Variables\Bucle\obj\Debug\net8.0\Bucle.dll
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\Variables\Bucle\obj\Debug\net8.0\refint\Bucle.dll
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\Variables\Bucle\obj\Debug\net8.0\Bucle.pdb
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\Variables\Bucle\obj\Debug\net8.0\Bucle.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\Variables\Bucle\obj\Debug\net8.0\ref\Bucle.dll

@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\Variables\Intercambio\bin\Debug\net8.0\Intercambio.exe
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\Variables\Intercambio\bin\Debug\net8.0\Intercambio.deps.json
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\Variables\Intercambio\bin\Debug\net8.0\Intercambio.runtimeconfig.json
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\Variables\Intercambio\bin\Debug\net8.0\Intercambio.dll
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\Variables\Intercambio\bin\Debug\net8.0\Intercambio.pdb
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\Variables\Intercambio\obj\Debug\net8.0\Intercambio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\Variables\Intercambio\obj\Debug\net8.0\Intercambio.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\Variables\Intercambio\obj\Debug\net8.0\Intercambio.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\Variables\Intercambio\obj\Debug\net8.0\Intercambio.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\Variables\Intercambio\obj\Debug\net8.0\Intercambio.sourcelink.json
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\Variables\Intercambio\obj\Debug\net8.0\Intercambio.dll
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\Variables\Intercambio\obj\Debug\net8.0\refint\Intercambio.dll
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\Variables\Intercambio\obj\Debug\net8.0\Intercambio.pdb
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\Variables\Intercambio\obj\Debug\net8.0\Intercambio.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\Variables\Intercambio\obj\Debug\net8.0\ref\Intercambio.dll
