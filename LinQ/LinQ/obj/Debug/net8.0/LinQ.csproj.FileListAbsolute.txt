@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\LinQ\LinQ\bin\Debug\net8.0\LinQ.exe
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\LinQ\LinQ\bin\Debug\net8.0\LinQ.deps.json
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\LinQ\LinQ\bin\Debug\net8.0\LinQ.runtimeconfig.json
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\LinQ\LinQ\bin\Debug\net8.0\LinQ.dll
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\LinQ\LinQ\bin\Debug\net8.0\LinQ.pdb
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\LinQ\LinQ\obj\Debug\net8.0\LinQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\LinQ\LinQ\obj\Debug\net8.0\LinQ.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\LinQ\LinQ\obj\Debug\net8.0\LinQ.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\LinQ\LinQ\obj\Debug\net8.0\LinQ.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\LinQ\LinQ\obj\Debug\net8.0\LinQ.sourcelink.json
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\LinQ\LinQ\obj\Debug\net8.0\LinQ.dll
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\LinQ\LinQ\obj\Debug\net8.0\refint\LinQ.dll
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\LinQ\LinQ\obj\Debug\net8.0\LinQ.pdb
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\LinQ\LinQ\obj\Debug\net8.0\LinQ.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\LinQ\LinQ\obj\Debug\net8.0\ref\LinQ.dll
