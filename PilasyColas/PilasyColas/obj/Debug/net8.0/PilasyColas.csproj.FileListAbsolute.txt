@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\PilasyColas\PilasyColas\bin\Debug\net8.0\PilasyColas.exe
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\PilasyColas\PilasyColas\bin\Debug\net8.0\PilasyColas.deps.json
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\PilasyColas\PilasyColas\bin\Debug\net8.0\PilasyColas.runtimeconfig.json
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\PilasyColas\PilasyColas\bin\Debug\net8.0\PilasyColas.dll
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\PilasyColas\PilasyColas\bin\Debug\net8.0\PilasyColas.pdb
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\PilasyColas\PilasyColas\obj\Debug\net8.0\PilasyColas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\PilasyColas\PilasyColas\obj\Debug\net8.0\PilasyColas.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\PilasyColas\PilasyColas\obj\Debug\net8.0\PilasyColas.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\PilasyColas\PilasyColas\obj\Debug\net8.0\PilasyColas.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\PilasyColas\PilasyColas\obj\Debug\net8.0\PilasyColas.sourcelink.json
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\PilasyColas\PilasyColas\obj\Debug\net8.0\PilasyColas.dll
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\PilasyColas\PilasyColas\obj\Debug\net8.0\refint\PilasyColas.dll
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\PilasyColas\PilasyColas\obj\Debug\net8.0\PilasyColas.pdb
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\PilasyColas\PilasyColas\obj\Debug\net8.0\PilasyColas.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\PilasyColas\PilasyColas\obj\Debug\net8.0\ref\PilasyColas.dll

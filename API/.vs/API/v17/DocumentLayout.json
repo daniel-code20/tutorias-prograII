@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\tutorias-prograII\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE02E5E2-1A55-450B-92E6-5820BA95144D}|API\\API.csproj|c:\\users\\danie\\onedrive\\documentos\\github\\tutorias-prograii\\api\\api\\controllers\\externalapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE02E5E2-1A55-450B-92E6-5820BA95144D}|API\\API.csproj|solutionrelative:api\\controllers\\externalapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE02E5E2-1A55-450B-92E6-5820BA95144D}|API\\API.csproj|c:\\users\\danie\\onedrive\\documentos\\github\\tutorias-prograii\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE02E5E2-1A55-450B-92E6-5820BA95144D}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE02E5E2-1A55-450B-92E6-5820BA95144D}|API\\API.csproj|c:\\users\\danie\\onedrive\\documentos\\github\\tutorias-prograii\\api\\api\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE02E5E2-1A55-450B-92E6-5820BA95144D}|API\\API.csproj|solutionrelative:api\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE02E5E2-1A55-450B-92E6-5820BA95144D}|API\\API.csproj|c:\\users\\danie\\onedrive\\documentos\\github\\tutorias-prograii\\api\\api\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE02E5E2-1A55-450B-92E6-5820BA95144D}|API\\API.csproj|solutionrelative:api\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE02E5E2-1A55-450B-92E6-5820BA95144D}|API\\API.csproj|c:\\users\\danie\\onedrive\\documentos\\github\\tutorias-prograii\\api\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EE02E5E2-1A55-450B-92E6-5820BA95144D}|API\\API.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE02E5E2-1A55-450B-92E6-5820BA95144D}|API\\API.csproj|c:\\users\\danie\\onedrive\\documentos\\github\\tutorias-prograii\\api\\api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE02E5E2-1A55-450B-92E6-5820BA95144D}|API\\API.csproj|solutionrelative:api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExternalAPI.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\tutorias-prograII\\API\\API\\Controllers\\ExternalAPI.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ExternalAPI.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\tutorias-prograII\\API\\API\\Controllers\\ExternalAPI.cs",
+              "RelativeToolTip": "API\\Controllers\\ExternalAPI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:37:33.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\tutorias-prograII\\API\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\tutorias-prograII\\API\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T19:15:11.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\tutorias-prograII\\API\\API\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\tutorias-prograII\\API\\API\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "API\\Controllers\\ProductosController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwDsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:20:21.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\tutorias-prograII\\API\\API\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "API\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\tutorias-prograII\\API\\API\\Models\\Producto.cs",
+              "RelativeToolTip": "API\\Models\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:17:05.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "API.csproj",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\tutorias-prograII\\API\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API.csproj",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\tutorias-prograII\\API\\API\\API.csproj",
+              "RelativeToolTip": "API\\API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-15T14:16:15.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\tutorias-prograII\\API\\API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\tutorias-prograII\\API\\API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:15:32.609Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

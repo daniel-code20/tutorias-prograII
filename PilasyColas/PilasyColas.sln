@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PilasyColas", "PilasyColas\PilasyColas.csproj", "{58E9F48B-3232-470A-B944-D8180F9D69F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colas", "Colas\Colas.csproj", "{C26B27A8-16EA-499D-B5A1-FC25BEADEF89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58E9F48B-3232-470A-B944-D8180F9D69F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58E9F48B-3232-470A-B944-D8180F9D69F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58E9F48B-3232-470A-B944-D8180F9D69F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58E9F48B-3232-470A-B944-D8180F9D69F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C26B27A8-16EA-499D-B5A1-FC25BEADEF89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C26B27A8-16EA-499D-B5A1-FC25BEADEF89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C26B27A8-16EA-499D-B5A1-FC25BEADEF89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C26B27A8-16EA-499D-B5A1-FC25BEADEF89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14C3A96B-8C39-410B-BD22-64FB8632644C}
+	EndGlobalSection
+EndGlobal

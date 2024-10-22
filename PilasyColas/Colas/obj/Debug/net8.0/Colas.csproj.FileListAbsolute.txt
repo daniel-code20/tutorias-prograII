@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\PilasyColas\Colas\bin\Debug\net8.0\Colas.exe
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\PilasyColas\Colas\bin\Debug\net8.0\Colas.deps.json
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\PilasyColas\Colas\bin\Debug\net8.0\Colas.runtimeconfig.json
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\PilasyColas\Colas\bin\Debug\net8.0\Colas.dll
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\PilasyColas\Colas\bin\Debug\net8.0\Colas.pdb
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\PilasyColas\Colas\obj\Debug\net8.0\Colas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\PilasyColas\Colas\obj\Debug\net8.0\Colas.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\PilasyColas\Colas\obj\Debug\net8.0\Colas.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\PilasyColas\Colas\obj\Debug\net8.0\Colas.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\PilasyColas\Colas\obj\Debug\net8.0\Colas.sourcelink.json
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\PilasyColas\Colas\obj\Debug\net8.0\Colas.dll
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\PilasyColas\Colas\obj\Debug\net8.0\refint\Colas.dll
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\PilasyColas\Colas\obj\Debug\net8.0\Colas.pdb
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\PilasyColas\Colas\obj\Debug\net8.0\Colas.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Documentos\GitHub\tutorias-prograII\PilasyColas\Colas\obj\Debug\net8.0\ref\Colas.dll
